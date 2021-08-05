@@ -1,0 +1,2 @@
+rootProject.name = "4Aug_ViewPager_WithTabs"
+include ':app'
